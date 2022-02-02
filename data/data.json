@@ -1,0 +1,517 @@
+{
+  "menus": [
+    {
+      "id": "d8fede91-fb8f-4b0f-885c-c6c726222f4c",
+      "name": "Pizza",
+      "img": "./photo/p12.png"
+    },
+    {
+      "id": "30eec971-efc1-4ec6-a6cb-9b98a51d6d7b",
+      "name": "Burger",
+      "img": "/photo/burger2.png"
+    },
+    {
+      "id": "605116a5-982c-4146-aae9-99255c142a7d",
+      "name": "Sauce",
+      "img": "/photo/s2.png"
+    },
+    {
+      "id": "9b095454-2c5f-4d4e-afac-f081fa8ef545",
+      "name": "Dessert",
+      "img": "/photo/cake.png"
+    },
+    {
+      "id": "dd69e78a-e346-4981-8672-f4b9c1cc0f12",
+      "name": "Drink",
+      "img": "./photo/coffee.png"
+    }
+  ],
+  "products": {
+    "pizza": [
+      {
+        "id": "728c9a0f-93c0-4751-859a-ab95f9dcf21c",
+        "name": "Margarita",
+        "img": "./photo/pizza7.png",
+        "comment": "maestro sauce, cheese, chicken breast, olive, green and red pepper, cheese, chicken breast, olive, green and red pepper",
+        "sprice": 27000,
+        "mprice": 43000,
+        "lprice": 57000,
+        "category": "pizza",
+        "menu": "pizza"
+      },
+      {
+        "id": "1e4afa79-a809-4aee-8d16-4cbca61bcc7a",
+        "name": "Cheddar pizza",
+        "img": "./photo/pizza1.png",
+        "comment": "olive, green and red pepper, green and red pepper",
+        "sprice": 25000,
+        "mprice": 41000,
+        "lprice": 54000,
+        "category": "pizza",
+        "menu": "pizza"
+      },
+      {
+        "id": "ab83a909-0228-454d-91f4-506e8ef29e9f",
+        "name": "Indian pizza",
+        "img": "./photo/pizza2.png",
+        "comment": "olive, green and red pepper, green and red pepper",
+        "sprice": 25000,
+        "mprice": 41000,
+        "lprice": 54000,
+        "category": "pizza",
+        "menu": "pizza"
+      },
+      {
+        "id": "0b57233f-d75a-4c30-974e-cd5a0e88dc2c",
+        "name": "Limo pizza",
+        "img": "./photo/pizza3.png",
+        "comment": "olive, green and red pepper, green and red pepper",
+        "sprice": 25000,
+        "mprice": 41000,
+        "lprice": 54000,
+        "category": "pizza",
+        "menu": "pizza"
+      },
+      {
+        "id": "e15e51f9-5d73-41f6-8bd1-321dfc7cebcd",
+        "name": "New York pizza",
+        "img": "./photo/pizza4.png",
+        "comment": "olive, green and red pepper, green and red pepper",
+        "sprice": 25000,
+        "mprice": 41000,
+        "lprice": 54000,
+        "category": "pizza",
+        "menu": "pizza"
+      },
+      {
+        "id": "daffa077-4192-4ee8-860d-939f6ea7bfcb",
+        "name": "Tomato pizza",
+        "img": "./photo/pizza5.png",
+        "comment": "olive, green and red pepper, green and red pepper",
+        "sprice": 25000,
+        "mprice": 41000,
+        "lprice": 54000,
+        "category": "pizza",
+        "menu": "pizza"
+      },
+      {
+        "id": "a9225512-5913-4cd0-93d6-a731a6ba03b1",
+        "name": "Corn pizza",
+        "img": "./photo/pizza6.png",
+        "comment": "olive, green and red pepper, green and red pepper",
+        "sprice": 25000,
+        "mprice": 41000,
+        "lprice": 54000,
+        "category": "pizza",
+        "menu": "pizza"
+      },
+      {
+        "id": "f0b6c15a-47a3-4588-b79f-9702c48a8c30",
+        "name": "Twin pizza",
+        "img": "./photo/pizza8.png",
+        "comment": "olive, green and red pepper, green and red pepper",
+        "sprice": 25000,
+        "mprice": 41000,
+        "lprice": 78000,
+        "category": "pizza",
+        "menu": "pizza"
+      }
+    ],
+    "burger": [
+      {
+        "id": "043809da-aa8c-4fac-8118-4ee5a64108d6",
+        "name": "Beef Burger",
+        "img": "./photo/burger1.png",
+        "comment": "burger sauce, cheese, beef, onion, green and red pepper, mayonez",
+        "price": 27000,
+        "eprice": 2000,
+        "category": "other",
+        "menu": "burger"
+      },
+      {
+        "id": "d6c86d18-42cd-4ee0-b159-7b48fb263d56",
+        "name": "Cheese Burger",
+        "img": "./photo/burger2.png",
+        "comment": "burger sauce, cheese, beef, onion, green and red pepper, mayonez ketchup, cucumber",
+        "price": 35000,
+        "eprice": 2000,
+        "category": "other",
+        "menu": "burger"
+      },
+      {
+        "id": "c103d6a7-e5e0-4129-9715-937141b6f240",
+        "name": "Triple Burger",
+        "img": "./photo/burger3.png",
+        "comment": "burger sauce, cheese, beef, onion, green and red pepper, mayonez ketchup, cucumber",
+        "price": 35000,
+        "eprice": 2000,
+        "category": "other",
+        "menu": "burger"
+      },
+      {
+        "id": "c9fa1680-4540-41e4-8882-b15e24e1372b",
+        "name": "Kfc Burger",
+        "img": "./photo/burger4.png",
+        "comment": "burger sauce, cheese, beef, onion, green and red pepper, mayonez ketchup, cucumber",
+        "price": 35000,
+        "eprice": 2000,
+        "category": "other",
+        "menu": "burger"
+      },
+      {
+        "id": "a8fb7dd9-1f7a-4bfb-83d6-de20426ebab7",
+        "name": "Chicken Burger",
+        "img": "./photo/burger5.png",
+        "comment": "burger sauce, cheese, beef, onion, green and red pepper, mayonez ketchup, cucumber",
+        "price": 35000,
+        "eprice": 2000,
+        "category": "other",
+        "menu": "burger"
+      },
+      {
+        "id": "6c3c15b3-0bd8-424a-96b6-bfdcbcfd9e33",
+        "name": "Simple Burger",
+        "img": "./photo/burger6.png",
+        "comment": "burger sauce, cheese, beef, onion, green and red pepper, mayonez ketchup, cucumber",
+        "price": 35000,
+        "eprice": 2000,
+        "category": "other",
+        "menu": "burger"
+      },
+      {
+        "id": "327fdff6-514e-430b-a2e0-ef0c8edc8ba3",
+        "name": "Fry Cheese Burger",
+        "img": "./photo/burger7.png",
+        "comment": "burger sauce, cheese, beef, onion, green and red pepper, mayonez ketchup, cucumber",
+        "price": 35000,
+        "eprice": 2000,
+        "category": "other",
+        "menu": "burger"
+      },
+      {
+        "id": "23418357-4c81-4e85-bb1c-8af91b56ae57",
+        "name": "Camel Burger",
+        "img": "./photo/burger8.png",
+        "comment": "burger sauce, cheese, beef, onion, green and red pepper, mayonez ketchup, cucumber",
+        "price": 35000,
+        "eprice": 2000,
+        "category": "other",
+        "menu": "burger"
+      },
+      {
+        "id": "4db50ab0-9de0-49f3-afa5-cc4d834e5da0",
+        "name": "Romashka Burger",
+        "img": "./photo/burger9.png",
+        "comment": "burger sauce, cheese, beef, onion, green and red pepper, mayonez ketchup, cucumber",
+        "price": 35000,
+        "eprice": 2000,
+        "category": "other",
+        "menu": "burger"
+      },
+      {
+        "id": "8893100a-fd75-4431-bf31-f510147ccc44",
+        "name": "Double Burger",
+        "img": "./photo/burger10.png",
+        "comment": "burger sauce, cheese, beef, onion, green and red pepper, mayonez ketchup, cucumber",
+        "price": 35000,
+        "eprice": 2000,
+        "category": "other",
+        "menu": "burger"
+      }
+    ],
+    "sauce": [
+      {
+        "id": "8aa02265-dfe2-4a8b-9c41-07f9f5a812ba",
+        "name": "Soya",
+        "img": "./photo/sauce1.png",
+        "comment": "mayonez",
+        "price": 2000,
+        "category": "other",
+        "menu": "sauce"
+      },
+      {
+        "id": "9236057c-b8b0-461e-8cdb-90e62b2aff41",
+        "name": "Mayonez",
+        "img": "./photo/sauce2.png",
+        "comment": "cheese heinze",
+        "price": 2000,
+        "category": "other",
+        "menu": "sauce"
+      },
+      {
+        "id": "d18b380d-4300-482e-9cff-901958556f13",
+        "name": "Chips Sauce",
+        "img": "./photo/sauce3.png",
+        "comment": "cheese heinze",
+        "price": 2000,
+        "category": "other",
+        "menu": "sauce"
+      },
+      {
+        "id": "2eb8888a-e34b-4057-8e9b-813da27f3477",
+        "name": "Cream Sauce",
+        "img": "./photo/sauce4.png",
+        "comment": "cheese heinze",
+        "price": 2000,
+        "category": "other",
+        "menu": "sauce"
+      },
+      {
+        "id": "127274b3-21cf-4d54-84e3-55d8389719b8",
+        "name": "Three Sauce",
+        "img": "./photo/sauce5.png",
+        "comment": "cheese heinze",
+        "price": 2000,
+        "category": "other",
+        "menu": "sauce"
+      },
+      {
+        "id": "7fc4948d-9e17-4c19-8853-297746a9a014",
+        "name": "Cheese Sauce",
+        "img": "./photo/sauce6.png",
+        "comment": "cheese heinze",
+        "price": 2000,
+        "category": "other",
+        "menu": "sauce"
+      },
+      {
+        "id": "48727e46-5fd6-4184-b5ee-8b041948e98f",
+        "name": "Jam",
+        "img": "./photo/sauce7.png",
+        "comment": "cheese heinze",
+        "price": 2000,
+        "category": "other",
+        "menu": "sauce"
+      },
+      {
+        "id": "1ae8bee1-1c91-4ac0-8cec-b4884f6dab71",
+        "name": "Mustard",
+        "img": "./photo/sauce8.png",
+        "comment": "cheese heinze",
+        "price": 2000,
+        "category": "other",
+        "menu": "sauce"
+      }
+    ],
+    "dessert": [
+      {
+        "id": "39f46598-216a-4fae-9662-57a1f2f5cd27",
+        "name": "Choco cake",
+        "img": "./photo/cake1.png",
+        "comment": "chocolate, muffin, malina",
+        "price": 8000,
+        "category": "other",
+        "menu": "dessert"
+      },
+      {
+        "id": "a530a40d-65de-4623-b225-3dc3c7b001eb",
+        "name": "Biscuit",
+        "img": "./photo/cake2.png",
+        "comment": "choco creem, cacao, almond, lemo",
+        "price": 6000,
+        "category": "other",
+        "menu": "dessert"
+      },
+      {
+        "id": "88ade55f-23ba-4e81-b712-331c4c7e58bf",
+        "name": "Cacao biscuit",
+        "img": "./photo/cake3.png",
+        "comment": "choco creem, cacao, almond, lemo",
+        "price": 6000,
+        "category": "other",
+        "menu": "dessert"
+      },
+      {
+        "id": "2569d578-312e-4f5b-b905-61b9cc8bd33d",
+        "name": "Sponge muffin",
+        "img": "./photo/cake4.png",
+        "comment": "choco creem, cacao, almond, lemo",
+        "price": 6000,
+        "category": "other",
+        "menu": "dessert"
+      },
+      {
+        "id": "e6521a4a-ad9b-463b-8220-c1b46331fc6d",
+        "name": "Sweet cake",
+        "img": "./photo/cake5.png",
+        "comment": "choco creem, cacao, almond, lemo",
+        "price": 6000,
+        "category": "other",
+        "menu": "dessert"
+      },
+      {
+        "id": "15b6a620-2157-4762-a813-051de07c07fa",
+        "name": "Cherry cake",
+        "img": "./photo/cake6.png",
+        "comment": "choco creem, cacao, almond, lemo",
+        "price": 6000,
+        "category": "other",
+        "menu": "dessert"
+      },
+      {
+        "id": "012f4141-8ed3-4d06-9b3b-440d8439811d",
+        "name": "Medovik",
+        "img": "./photo/cake7.png",
+        "comment": "choco creem, cacao, almond, lemo",
+        "price": 6000,
+        "category": "other",
+        "menu": "dessert"
+      },
+      {
+        "id": "ea1b6ea5-6ddb-4c37-85dc-93fd1d714bf1",
+        "name": "Fruit cake",
+        "img": "./photo/cake8.png",
+        "comment": "choco creem, cacao, almond, lemo",
+        "price": 6000,
+        "category": "other",
+        "menu": "dessert"
+      },
+      {
+        "id": "08b7889c-efdf-4077-a404-6d711f60d82e",
+        "name": "Strawberry cake",
+        "img": "./photo/cake9.png",
+        "comment": "choco creem, cacao, almond, lemo",
+        "price": 6000,
+        "category": "other",
+        "menu": "dessert"
+      },
+      {
+        "id": "06673602-5105-420a-a338-d822d678d6ce",
+        "name": "Breadcrumb",
+        "img": "./photo/cake10.png",
+        "comment": "choco creem, cacao, almond, lemo",
+        "price": 6000,
+        "category": "other",
+        "menu": "dessert"
+      },
+      {
+        "id": "07590364-cb44-4afe-bc33-c40883137cfa",
+        "name": "Cookies",
+        "img": "./photo/cake11.png",
+        "comment": "choco creem, cacao, almond, lemo",
+        "price": 6000,
+        "category": "other",
+        "menu": "dessert"
+      }
+    ],
+    "drink": [
+      {
+        "id": "d821124f-6981-49f1-94f6-2fdcdda16d5e",
+        "name": "Coca-cola",
+        "img": "./photo/drink3.png",
+        "comment": "250g cup",
+        "price": 5000,
+        "category": "other",
+        "menu": "drink"
+      },
+      {
+        "id": "7a663235-a693-49b9-bc0d-9d054b52873c",
+        "name": "Orange juice",
+        "img": "./photo/drink4.png",
+        "comment": "long cup with lemon",
+        "price": 7000,
+        "category": "other",
+        "menu": "drink"
+      },
+      {
+        "id": "6da131df-447f-4dfb-80b4-995191b42a75",
+        "name": "Orange juice",
+        "img": "./photo/drink5.png",
+        "comment": "long cup with lemon",
+        "price": 7000,
+        "category": "other",
+        "menu": "drink"
+      },
+      {
+        "id": "5a0f9040-a9aa-4e48-b33a-bb10c1b29c23",
+        "name": "Orange juice",
+        "img": "./photo/drink6.png",
+        "comment": "long cup with lemon",
+        "price": 7000,
+        "category": "other",
+        "menu": "drink"
+      },
+      {
+        "id": "162f4eb7-3fa4-4626-8a57-f30682a23ddc",
+        "name": "Orange juice",
+        "img": "./photo/drink7.png",
+        "comment": "long cup with lemon",
+        "price": 7000,
+        "category": "other",
+        "menu": "drink"
+      },
+      {
+        "id": "72700d3d-4cb5-44b0-89c7-1f3fe7ab7a82",
+        "name": "Orange juice",
+        "img": "./photo/drink8.png",
+        "comment": "long cup with lemon",
+        "price": 7000,
+        "category": "other",
+        "menu": "drink"
+      },
+      {
+        "id": "af37dbba-43e1-41d8-880c-134ac1e560f4",
+        "name": "Orange juice",
+        "img": "./photo/drink9.png",
+        "comment": "long cup with lemon",
+        "price": 7000,
+        "category": "other",
+        "menu": "drink"
+      },
+      {
+        "id": "2cb0e28f-d94f-44ce-9283-2e4d0a3b125b",
+        "name": "Orange juice",
+        "img": "./photo/drink10.png",
+        "comment": "long cup with lemon",
+        "price": 7000,
+        "category": "other",
+        "menu": "drink"
+      },
+      {
+        "id": "92643191-ceeb-4373-add1-38f3f848dac1",
+        "name": "Orange juice",
+        "img": "./photo/drink11.png",
+        "comment": "long cup with lemon",
+        "price": 7000,
+        "category": "other",
+        "menu": "drink"
+      },
+      {
+        "id": "1a7551c9-0d8d-4847-8ef1-90220694a47a",
+        "name": "Orange juice",
+        "img": "./photo/drink12.png",
+        "comment": "long cup with lemon",
+        "price": 7000,
+        "category": "other",
+        "menu": "drink"
+      },
+      {
+        "id": "110a6250-d1f0-4ee2-96aa-5bb25fbedba7",
+        "name": "Orange juice",
+        "img": "./photo/drink14.png",
+        "comment": "long cup with lemon",
+        "price": 7000,
+        "category": "other",
+        "menu": "drink"
+      },
+      {
+        "id": "d0a86553-bfa8-48bc-802a-2e70a6f44f7e",
+        "name": "Orange juice",
+        "img": "./photo/drink15.png",
+        "comment": "long cup with lemon",
+        "price": 7000,
+        "category": "other",
+        "menu": "drink"
+      },
+      {
+        "id": "99b2a5c5-a950-48a1-ba37-c6bec23bc78b",
+        "name": "Orange juice",
+        "img": "./photo/drink16.png",
+        "comment": "long cup with lemon",
+        "price": 7000,
+        "category": "other",
+        "menu": "drink"
+      }
+    ]
+  }
+}
