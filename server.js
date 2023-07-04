@@ -1,6 +1,6 @@
 import "dotenv/config";
-import express, { urlencoded } from "express";
 import cors from "cors";
+import express, { urlencoded } from "express";
 import getRoutes from "./routes/dataRouter.js";
 import path from "path";
 
