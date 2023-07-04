@@ -10,9 +10,7 @@ const port = process.env.PORT;
 const app = express();
 
 app.use(
-  cors({
-    origin: "*",
-  })
+  cors()
 );
 app.use(express.json());
 app.use(urlencoded({ extended: true }));
