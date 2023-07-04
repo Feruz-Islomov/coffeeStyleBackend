@@ -10,7 +10,7 @@ const port = process.env.PORT;
 const app = express();
 
 app.use(
-  cors("https://itchy-pants-bee.cyclic.app/api/postproduct")
+  cors("*")
 );
 app.use(express.json());
 app.use(urlencoded({ extended: true }));
